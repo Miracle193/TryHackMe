@@ -1,0 +1,1 @@
+mv /tmp/facestab /home
