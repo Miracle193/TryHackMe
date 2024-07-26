@@ -1,1 +1,1 @@
-mv /tmp/facestab /home
+mv /tmp/facestab /home/facestab
